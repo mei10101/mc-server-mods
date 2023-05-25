@@ -1,2 +1,2 @@
 # mc-server-mods
-mods for server
+server modpacks
